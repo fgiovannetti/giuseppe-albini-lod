@@ -1,0 +1,259 @@
+@prefix ficlidl: <http://purl.org/ficlitdl/> .
+@prefix pro: <http://purl.org/spar/pro/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 26 maggio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 26 maggio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 26 maggio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 03 luglio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della cartolina da parte di Francesco D'Ovidio. 1 cartolina postale. Napoli, 03 luglio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 03 luglio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della cartolina a Giuseppe Albini. 1 cartolina postale. Montepulciano, 26 luglio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della cartolina da parte di Francesco D'Ovidio. 1 cartolina postale. Montepulciano, 26 luglio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della cartolina a Giuseppe Albini. 1 cartolina postale. Montepulciano, 26 luglio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della cartolina a Giuseppe Albini. 1 cartolina postale. Montepulciano, 18 agosto 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della cartolina da parte di Francesco D'Ovidio. 1 cartolina postale. Montepulciano, 18 agosto 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della cartolina a Giuseppe Albini. 1 cartolina postale. Montepulciano, 18 agosto 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Montepulciano, 30 agosto 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Montepulciano, 30 agosto 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Montepulciano, 30 agosto 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Montepulciano, 21 settembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Montepulciano, 21 settembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Montepulciano, 21 settembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Montepulciano, 22 settembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Montepulciano, 22 settembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Montepulciano, 22 settembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 02 novembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 02 novembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 02 novembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 11 dicembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 11 dicembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 11 dicembre 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 17 dicembre 1900."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 17 dicembre 1900."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 17 dicembre 1900."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 26 ottobre 1901."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della cartolina da parte di Francesco D'Ovidio. 1 cartolina postale. Napoli, 26 ottobre 1901."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 26 ottobre 1901."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 25 gennaio 1902."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della cartolina da parte di Francesco D'Ovidio. 1 cartolina postale. Napoli, 25 gennaio 1902."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 25 gennaio 1902."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 12 maggio 1910."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della cartolina da parte di Francesco D'Ovidio. 1 cartolina postale. Napoli, 12 maggio 1910."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della cartolina a Giuseppe Albini. 1 cartolina postale. Napoli, 12 maggio 1910."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 13 novembre 1910."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 13 novembre 1910."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 13 novembre 1910."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 17 gennaio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 17 gennaio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 17 gennaio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 26 febbraio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 26 febbraio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 26 febbraio 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/physical-object> ;
+    pro:withRole ficlidl:sender .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/author> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, autore della lettera a Giuseppe Albini. 1 lettera. Napoli, 03 aprile 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/expression> ;
+    pro:withRole pro:author .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/recipient> a pro:RoleInTime ;
+    rdfs:label "Giuseppe Albini, destinatario della lettera da parte di Francesco D'Ovidio. 1 lettera. Napoli, 03 aprile 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/physical-object> ;
+    pro:withRole ficlidl:recipient .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/sender> a pro:RoleInTime ;
+    rdfs:label "Francesco D'Ovidio, mittente della lettera a Giuseppe Albini. 1 lettera. Napoli, 03 aprile 1911."@it ;
+    pro:relatesToEntity <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/physical-object> ;
+    pro:withRole ficlidl:sender .
+

@@ -1,0 +1,158 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 26 maggio 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 26 maggio 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 03 luglio 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 03 luglio 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/postcard> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Montepulciano, 26 luglio 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Montepulciano, 26 luglio 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/postcard> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Montepulciano, 18 agosto 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Montepulciano, 18 agosto 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/postcard> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 30 agosto 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 30 agosto 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 21 settembre 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 21 settembre 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 22 settembre 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 22 settembre 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 02 novembre 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 02 novembre 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 11 dicembre 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 11 dicembre 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 17 dicembre 1900 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 17 dicembre 1900, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 26 ottobre 1901 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 26 ottobre 1901, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/postcard> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 25 gennaio 1902 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 25 gennaio 1902, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/postcard> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 12 maggio 1910 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 12 maggio 1910, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/postcard> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 13 novembre 1910 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 13 novembre 1910, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 17 gennaio 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 17 gennaio 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 26 febbraio 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 26 febbraio 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/expression-creation> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/expression> a frbroo:F2_Expression ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 03 aprile 1911 (espressione)."@it ;
+    bf:preferredCitation "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 03 aprile 1911, Fondo Giuseppe Albini, Biblioteca \"Ezio Raimondi\", Dipartimento di Filologia Classica e Italianistica, Università di Bologna." ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128i_is_carried_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/physical-object> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/documentary-form-type/letter> ;
+    crm:P72_has_language <http://id.loc.gov/vocabulary/iso639-2/ita> ;
+    crm:P94i_was_created_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/expression-creation> .
+

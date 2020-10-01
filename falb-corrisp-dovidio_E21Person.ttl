@@ -1,0 +1,65 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns1: <http://www.w3.org/2002/07/owl#> .
+@prefix pro: <http://purl.org/spar/pro/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ficlitdl/person/francesco-d'ovidio> a crm:E21_Person ;
+    rdfs:label "Francesco D'Ovidio"@it ;
+    pro:holdsRoleInTime <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/sender>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/author>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/sender> ;
+    crm:P3_has_note "Bio?"@it ;
+    ns1:sameAs <http://www.example.org> .
+
+<https://w3id.org/ficlitdl/person/giuseppe-albini> rdfs:label "Giuseppe Albini"@it ;
+    pro:holdsRoleInTime <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/recipient>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/recipient> ;
+    crm:P3_has_note "Bio?"@it ;
+    ns1:sameAs <http://www.example.org> .
+

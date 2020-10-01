@@ -1,0 +1,22 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> a crm:E53_Place ;
+    rdfs:label "Biblioteca di Discipline Umanistiche, Università di Bologna"@it ;
+    crm:P76_has_contact_point <https://w3id.org/ficlitdl/address/via-zamboni-36-40126-Bologna-BO> ;
+    crm:P89_falls_within <https://w3id.org/ficlitdl/place/bologna> .
+
+<https://w3id.org/ficlitdl/place/montepulciano> a crm:E53_Place ;
+    rdfs:label "Montepulciano"@it .
+
+<https://w3id.org/ficlitdl/place/napoli> a crm:E53_Place ;
+    rdfs:label "Napoli"@it .
+
+<https://w3id.org/ficlitdl/place/bologna> a crm:E53_Place ;
+    rdfs:label "Bologna"@it ;
+    owl:sameAs <http://dbpedia.org/page/Bologna>,
+        <http://sws.geonames.org/3181928>,
+        <https://w3id.org/zericatalog/place/bologna>,
+        <https://www.wikidata.org/wiki/Q1891> .
+

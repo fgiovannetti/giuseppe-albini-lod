@@ -1,0 +1,72 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/extent/1c> a crm:E54_Dimension ;
+    rdfs:label "Numero totale di carte: 1"@it ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300055645> .
+

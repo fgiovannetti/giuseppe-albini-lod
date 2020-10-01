@@ -1,0 +1,11 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+
+<https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna>
+  a <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> ;
+  dc:identifier <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+  owl:sameAs <https://www.wikidata.org/wiki/Q131262>, <https://w3id.org/zericatalog/organization/alma-mater-studiorum-university-of-bologna>, <https://viaf.org/viaf/155886025> ;
+  rdfs:label "Alma Mater Studiorum University of Bologna"@en, "Alma Mater Studiorum Università di Bologna"@it ;
+  foaf:homepage <https://www.unibo.it> .

@@ -1,0 +1,12 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+
+<https://w3id.org/ficlitdl/address/via-zamboni-32-40126-Bologna-BO>
+  rdfs:label "Via Zamboni 32, 40126, Bologna (BO), Italia"@it, "Via Zamboni 32, 40126, Bologna (BO), Italy"@en ;
+  a <http://www.cidoc-crm.org/cidoc-crm/E45_Address> ;
+  dc:identifier <https://w3id.org/ficlitdl/address/via-zamboni-32-40126-Bologna-BO> .
+
+<https://w3id.org/ficlitdl/address/via-zamboni-36-40126-Bologna-BO>
+  rdfs:label "Via Zamboni 36, 40126, Bologna (BO), Italia"@it, "Via Zamboni 36, 40126, Bologna (BO), Italy"@en ;
+  a <http://www.cidoc-crm.org/cidoc-crm/E45_Address> ;
+  dc:identifier <https://w3id.org/ficlitdl/address/via-zamboni-36-40126-Bologna-BO> .

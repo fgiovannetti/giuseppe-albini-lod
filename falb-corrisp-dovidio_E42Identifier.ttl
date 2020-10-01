@@ -1,0 +1,166 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc10"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc11"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc12"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc13"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc14"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc15"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc16"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc17"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc18"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc2"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc3"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc4"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc5"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc6"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc7"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc8"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/inventory-number> a crm:E42_Identifier ;
+    rdfs:label "Inventario: alc9"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/inventory-number> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza)"@it,
+        "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini)"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini)"@it ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/shelfmark> a crm:E42_Identifier ;
+    rdfs:label "Collocazione: TODO (Fondo Albini/Corrispondenza/Corrispondenza Albini/Cartone 3/Fascicolo D'Ovidio/Documento 4)"@it ;
+    dcterms:identifier <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/shelfmark> .
+

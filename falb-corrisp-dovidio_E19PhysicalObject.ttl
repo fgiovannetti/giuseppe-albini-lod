@@ -1,0 +1,307 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 26 maggio 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 03 luglio 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc11/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/postcard> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Montepulciano, 26 luglio 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc12/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/postcard> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Montepulciano, 18 agosto 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc13/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/postcard> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 30 agosto 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc14/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 21 settembre 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc15/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Montepulciano, 22 settembre 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc16/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 02 novembre 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc17/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 11 dicembre 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc18/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 17 dicembre 1900 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc2/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 26 ottobre 1901 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc3/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/postcard> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 25 gennaio 1902 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc4/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/postcard> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 cartolina postale. Napoli, 12 maggio 1910 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc5/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/postcard> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 13 novembre 1910 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc6/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 17 gennaio 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc7/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 26 febbraio 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/physical-object> a crm:E19_Physical_Object ;
+    rdfs:label "Francesco D'Ovidio a Giuseppe Albini. 1 lettera. Napoli, 03 aprile 1911 (documento fisico)."@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P128_carries <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/expression> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/inventory-number>,
+        <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/carrier-form-type/letter> ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "1"^^xsd:number ;
+    rico:hasAddressee <https://w3id.org/ficlitdl/person/giuseppe-albini> ;
+    rico:hasSender <https://w3id.org/ficlitdl/person/francesco-dovidio> .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds> a crm:E19_Physical_Object ;
+    rdfs:label "Fondo Giuseppe Albini"@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/fonds> ;
+    crm:P3_has_note "TODO: Breve descrizione del fondo"@it ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "n?"^^xsd:number .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/albini-correspondence> a crm:E19_Physical_Object ;
+    rdfs:label "Sottoserie Corrispondenza di Giuseppe Albini"@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/albini-correspondence/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/series> ;
+    crm:P3_has_note "TODO: Breve descrizione della sottoserie"@it ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "n?"^^xsd:number .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence> a crm:E19_Physical_Object ;
+    rdfs:label "Serie CorrispondenzaFrancesco D'Ovidio"@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/series> ;
+    crm:P3_has_note "TODO: Breve descrizione della serie"@it ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
+    crm:P57_has_number_of_parts "n?"^^xsd:number .
+
+<https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> a crm:E19_Physical_Object ;
+    rdfs:label "Fascicolo Francesco D'Ovidio"@it ;
+    crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
+    crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio/shelfmark> ;
+    crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/file> ;
+    crm:P3_has_note "TODO: Breve descrizione del fascicolo, e.g. il fascicolo contiene n lettere indirizzate ad G. Albini etc."@it ;
+    crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/albini-correspondence> ;
+    crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
+    crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/istituto-per-i-beni-artistici-culturali-e-naturali> ;
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-ezio-raimondi> ;
+    crm:P57_has_number_of_parts "17"^^xsd:number .
+
