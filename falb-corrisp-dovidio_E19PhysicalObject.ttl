@@ -282,7 +282,7 @@
     crm:P57_has_number_of_parts "n?"^^xsd:number .
 
 <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence> a crm:E19_Physical_Object ;
-    rdfs:label "Serie CorrispondenzaFrancesco D'Ovidio"@it ;
+    rdfs:label "Serie Corrispondenza Francesco D'Ovidio"@it ;
     crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
     crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence/shelfmark> ;
     crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/series> ;

@@ -1,5 +1,5 @@
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
-@prefix ns1: <http://www.w3.org/2002/07/owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix pro: <http://purl.org/spar/pro/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
@@ -40,7 +40,7 @@
         <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/author>,
         <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/sender> ;
     crm:P3_has_note "Bio?"@it ;
-    ns1:sameAs <http://www.example.org> .
+    owl:sameAs <http://viaf.org/viaf/29528295>, <https://www.worldcat.org/identities/lccn-n83067336/>, <https://www.wikidata.org/wiki/Q3749858> .
 
 <https://w3id.org/ficlitdl/person/giuseppe-albini> rdfs:label "Giuseppe Albini"@it ;
     pro:holdsRoleInTime <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc10/recipient>,
@@ -61,5 +61,5 @@
         <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc8/recipient>,
         <https://w3id.org/ficlitdl/giuseppe-albini-fonds/corresp/alc9/recipient> ;
     crm:P3_has_note "Bio?"@it ;
-    ns1:sameAs <http://www.example.org> .
+    owl:sameAs <http://viaf.org/viaf/7513665> , <https://www.worldcat.org/identities/lccn-n88628971> , <https://www.wikidata.org/wiki/Q3769925> .
 
