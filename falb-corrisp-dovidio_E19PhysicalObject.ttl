@@ -263,42 +263,39 @@
     crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
     crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/shelfmark> ;
     crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/fonds> ;
-    crm:P3_has_note "TODO: Breve descrizione del fondo"@it ;
+    crm:P3_has_note "Il Fondo Giuseppe Albini presenta 5 serie, divise in base al tipo di materiale conservato. La prima sezione contiene i primi 13 cartoni con la corrispondenza personale e familiare di Giuseppe Albini, suddivisa in 3 sottoserie in base al mittente della lettera. La seconda serie raggruppa tutti i cartoni contenenti gli scritti accademici di Albini, anche questa suddivisa in sottoserie in base al tipo di testo critico. La terza sezione possiede 10 sottosezioni in base al tipo di documento conservato; troviamo scritti personali, ritagli di giornale e opuscoli accademici. La quarta conserva 7 cartoni di opere latine e greche, sia di traduzione che di critica. L’ultima sezione conserva 4 cartoni misti con diversi tipi di documenti e oggetti archivistici."@it ;
     crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
     crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
-    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
-    crm:P57_has_number_of_parts "n?"^^xsd:number .
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> .
 
 <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/albini-correspondence> a crm:E19_Physical_Object ;
     rdfs:label "Sottoserie Corrispondenza di Giuseppe Albini"@it ;
     crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
     crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/albini-correspondence/shelfmark> ;
     crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/series> ;
-    crm:P3_has_note "TODO: Breve descrizione della sottoserie"@it ;
+    crm:P3_has_note "Sottoserie della Corrispondenza privata che conserva le lettere di singoli conoscenti di Giuseppe Albini."@it ;
     crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence> ;
     crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
     crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
-    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
-    crm:P57_has_number_of_parts "n?"^^xsd:number .
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> .
 
 <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence> a crm:E19_Physical_Object ;
     rdfs:label "Serie Corrispondenza Francesco D'Ovidio"@it ;
     crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
     crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/correspondence/shelfmark> ;
     crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/series> ;
-    crm:P3_has_note "TODO: Breve descrizione della serie"@it ;
+    crm:P3_has_note "La serie della Corrispondenza è la prima serie del Fondo Albini, conserva tutte le lettere personali e familiari di Giuseppe Albini. Presenta 3 sottoserie in base al tipo di mittente dell’oggetto documentario: abbiamo la sottoserie della Corrispondenza privata che conserva le lettere di singoli conoscenti di Giuseppe Albini; la sottoserie della Corrispondenza con istituzioni nella quale troviamo lettere di enti pubblici o privati; l’ultima sottoserie è la Corrispondenza familiare, con le lettere ricevute e spedite dai familiari di Albini."@it ;
     crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds> ;
     crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
     crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
-    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> ;
-    crm:P57_has_number_of_parts "n?"^^xsd:number .
+    crm:P55_has_current_location <https://w3id.org/ficlitdl/place/biblioteca-discipline-umanistiche> .
 
 <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio> a crm:E19_Physical_Object ;
     rdfs:label "Fascicolo Francesco D'Ovidio"@it ;
     crm:P104_is_subject_to <https://w3id.org/ficlitdl/rights/all-rights-reserved> ;
     crm:P1_is_identified_by <https://w3id.org/ficlitdl/giuseppe-albini-fonds/file/d'ovidio/shelfmark> ;
     crm:P2_has_type <https://w3id.org/ficlitdl/archival-unit/file> ;
-    crm:P3_has_note "TODO: Breve descrizione del fascicolo, e.g. il fascicolo contiene n lettere indirizzate ad G. Albini etc."@it ;
+    crm:P3_has_note "Il fascicolo D'Ovidio conserva 17 lettere inviate da Francesco D'Ovidio a Giuseppe Albini."@it ;
     crm:P46i_forms_part_of <https://w3id.org/ficlitdl/giuseppe-albini-fonds/series/albini-correspondence> ;
     crm:P50_has_current_keeper <https://w3id.org/ficlitdl/organization/alma-mater-studiorum-university-of-bologna> ;
     crm:P52_has_current_owner <https://w3id.org/ficlitdl/organization/istituto-per-i-beni-artistici-culturali-e-naturali> ;
